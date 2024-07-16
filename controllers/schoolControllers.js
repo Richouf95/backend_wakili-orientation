@@ -48,7 +48,7 @@ const createSchool = async (req, res) => {
             niveauEtude,
             servicesParaScolaire,
             coordonnee});
-        return res.status(200).json(school)
+        return res.status(200).json(school);
     } catch (err) {
         return res.status(400).json({error: err.message});
     }
