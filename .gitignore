@@ -4,6 +4,9 @@
 # Node.js dependencies
 node_modules/
 
+# Local Data
+# localData/
+
 # TypeScript build directory
 dist/
 

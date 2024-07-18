@@ -3,12 +3,18 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const schoolSchema = new Schema({
+    ownerAcount: {
+        type: String,
+        default: "N/A",
+        required: true
+    },
     name: {
         type: String,
         required: true
     },
     openingDecree: {
         type: String,
+        default: "N/A",
         required: true
     },
     localisation: {
@@ -20,11 +26,11 @@ const schoolSchema = new Schema({
         required: true
     },
     niveauEtude: {
-        type: Array,
+        type: [String],
         required: true
     },
     servicesParaScolaire: {
-        type: Array
+        type: [String]
     },
     coordonnee: {
         type: Object

@@ -38,7 +38,8 @@ const createSchool = async (req, res) => {
         typeEtablissement,
         niveauEtude,
         servicesParaScolaire,
-        coordonnee } = req.body;
+        coordonnee,
+        ownerAcount } = req.body;
 
     try {
         const school = await School.create({name,
@@ -47,7 +48,8 @@ const createSchool = async (req, res) => {
             typeEtablissement,
             niveauEtude,
             servicesParaScolaire,
-            coordonnee});
+            coordonnee,
+            ownerAcount});
         return res.status(200).json(school);
     } catch (err) {
         return res.status(400).json({error: err.message});
