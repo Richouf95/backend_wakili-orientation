@@ -1,9 +1,9 @@
 import json
 
 # Chemin vers le fichier JSON
-file_path = 'allData.json'
+file_path = '../allData.json'
 # Chemin vers le nouveau fichier JSON
-output_file_path = './schoolExtrait/localSchollsData.js'
+output_file_path = '../uploadSchoolsData/localSchollsData.js'
 
 # Ouvrir et lire le fichier JSON en spécifiant l'encodage utf-8
 with open(file_path, 'r', encoding='utf-8') as file:
@@ -14,6 +14,7 @@ result = []
 
 # Propriétés à extraire
 properties_to_extract = [
+    "t_id",
     "name",
     "openingDecree",
     "localisation",

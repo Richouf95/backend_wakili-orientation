@@ -4,12 +4,10 @@ const Schema = mongoose.Schema;
 
 const programDetailsSchema = new Schema({
     duration: {
-        type: String,
-        required: true
+        type: String
     },
     description: {
-        type: String,
-        required: true
+        type: String
     },
     jobTraining: {
         type: String
@@ -45,6 +43,9 @@ const schoolProgramSchema = new Schema({
         ref: 'School',
         required: true
     },
+    t_id: {
+        type: String
+    },
     programLevel: {
         type: String,
         required: true
@@ -54,15 +55,16 @@ const schoolProgramSchema = new Schema({
     },
     name: {
         type: String,
+        default: "N/A",
         required: true
     },
     domaine: {
         type: String,
+        default: "N/A",
         required: true
     },
     programDetails: {
         type: programDetailsSchema,
-        required: true
     }
 }, { timestamps: true });
 

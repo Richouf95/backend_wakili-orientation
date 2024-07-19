@@ -32,6 +32,7 @@ const getSchoolProgram = async (req, res) => {
 // Create new Program
 const createSchoolProgram = async (req, res) => {
     const { school,
+        t_id,
         programLevel,
         authorisationDecree,
         name,
@@ -40,6 +41,7 @@ const createSchoolProgram = async (req, res) => {
 
     try {
         const program = await Program.create({ school,
+            t_id,
             programLevel,
             authorisationDecree,
             name,

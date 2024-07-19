@@ -3,6 +3,9 @@ const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 
 const schoolSchema = new Schema({
+    t_id: {
+        type: String
+    },
     ownerAcount: {
         type: String,
         default: "N/A",
@@ -34,7 +37,20 @@ const schoolSchema = new Schema({
     },
     coordonnee: {
         type: Object
+    },
+    schoolLogo: {
+        url: {
+            type: String
+        },
+        public_id: {
+            type: String
+        }
+    },
+    publishStatus: {
+        type: Boolean,
+        required: true,
+        default: false
     }
-}, {timestamp: true});
+}, {timestamps: true});
 
 module.exports = mongoose.model('School', schoolSchema);

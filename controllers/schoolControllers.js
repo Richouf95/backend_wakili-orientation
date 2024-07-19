@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 
 // Get all school datas
 const getAllSchools = async (req, res) => {
-    const schools = await School.find({  });
+    const schools = await School.find({});
 
     return res.status(200).json(schools);
 }
@@ -13,7 +13,7 @@ const getSchool = async (req, res) => {
     const { id } = req.params;
 
     if (!mongoose.Types.ObjectId.isValid(id)) {
-        return res.status(404).json({error: "No such school"});
+        return res.status(404).json({ error: "No such school" });
     }
 
     try {
@@ -39,20 +39,24 @@ const createSchool = async (req, res) => {
         niveauEtude,
         servicesParaScolaire,
         coordonnee,
-        ownerAcount } = req.body;
+        ownerAcount,
+        t_id } = req.body;
 
     try {
-        const school = await School.create({name,
+        const school = await School.create({
+            name,
             openingDecree,
             localisation,
             typeEtablissement,
             niveauEtude,
             servicesParaScolaire,
             coordonnee,
-            ownerAcount});
+            ownerAcount,
+            t_id
+        });
         return res.status(200).json(school);
     } catch (err) {
-        return res.status(400).json({error: err.message});
+        return res.status(400).json({ error: err.message });
     }
 }
 
