@@ -11,14 +11,14 @@ const getSchoolPresentation = async(req, res) => {
     const {id} = req.params;
 
     if (!mongoose.Types.ObjectId.isValid(id)) {
-        return res.status(404).json({error: "No such school presentation"});
+        return res.status(400).json({error: "No such school presentation"});
     }
 
     try {
         const presentation = await Presentation.findOne({ school: id }).lean();
 
         if (!presentation) {
-            return res.status(404).json({error: "No such school presentation"});
+            return res.status(404).json({error: "No such school presentation !!!!"});
         }
 
         return res.status(200).json(presentation)
@@ -41,7 +41,21 @@ const createSchoolPresentation = async(req, res) => {
 
 // Update a school presentation
 const updateSchoolPresentation = async(req, res) => {
+    const { id } = req.params;
 
+    if (!mongoose.Types.ObjectId.isValid(id)) {
+        return res.status(400).json({ error: "No such presentation" });
+    }
+
+    const presentation = await Presentation.findByIdAndUpdate({ _id: id }, {
+        ...req.body
+    })
+
+    if (!presentation) {
+        res.status(404).json({ error: "No such presentation" });
+    }
+
+    res.status(200).json(presentation);
 }
 
 // Delete a school presentation

@@ -10,10 +10,10 @@ const programDetailsSchema = new Schema({
         type: String
     },
     jobTraining: {
-        type: String
+        type: [String]
     },
     prerequis: {
-        type: String
+        type: [String]
     },
     cout: {
         type: Number,
@@ -47,7 +47,7 @@ const schoolProgramSchema = new Schema({
         type: String
     },
     programLevel: {
-        type: String,
+        type: Object,
         required: true
     },
     authorisationDecree: {
@@ -59,8 +59,7 @@ const schoolProgramSchema = new Schema({
         required: true
     },
     domaine: {
-        type: String,
-        default: "N/A",
+        type: Schema.Types.ObjectId,
         required: true
     },
     programDetails: {

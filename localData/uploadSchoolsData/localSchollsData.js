@@ -8,7 +8,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -21,7 +21,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -34,7 +34,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -47,7 +47,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -60,7 +60,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -73,7 +73,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -86,7 +86,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -99,7 +99,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -112,7 +112,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -125,7 +125,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -138,7 +138,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -151,7 +151,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -164,7 +164,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -177,7 +177,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -190,7 +190,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -203,7 +203,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -216,7 +216,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -229,7 +229,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -242,7 +242,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -255,7 +255,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -268,7 +268,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -281,7 +281,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -294,7 +294,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -307,7 +307,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -320,7 +320,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -333,7 +333,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -346,7 +346,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -359,7 +359,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -372,7 +372,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -385,7 +385,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -398,7 +398,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -411,7 +411,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -424,7 +424,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -437,7 +437,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -450,7 +450,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -463,7 +463,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -476,7 +476,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -489,7 +489,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -502,7 +502,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -515,7 +515,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -528,7 +528,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -541,7 +541,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -554,7 +554,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -567,7 +567,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -580,7 +580,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -593,7 +593,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -606,7 +606,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -619,7 +619,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -632,7 +632,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -645,7 +645,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -658,7 +658,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -671,7 +671,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -684,7 +684,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -697,7 +697,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -710,7 +710,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -723,7 +723,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -736,7 +736,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -749,7 +749,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -762,7 +762,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -775,7 +775,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -788,7 +788,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -801,7 +801,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -814,7 +814,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -827,7 +827,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -840,7 +840,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -853,7 +853,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -866,7 +866,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -879,7 +879,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -892,7 +892,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -905,7 +905,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -918,7 +918,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -931,7 +931,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -944,7 +944,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -957,7 +957,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -970,7 +970,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -983,7 +983,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -996,7 +996,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1009,7 +1009,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1022,7 +1022,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1035,7 +1035,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1048,7 +1048,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1061,7 +1061,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1074,7 +1074,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1087,7 +1087,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1100,7 +1100,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1113,7 +1113,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1126,7 +1126,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1139,7 +1139,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1152,7 +1152,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1165,7 +1165,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1178,7 +1178,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1191,7 +1191,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1204,7 +1204,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1217,7 +1217,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1230,7 +1230,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1243,7 +1243,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1256,7 +1256,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1269,7 +1269,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1282,7 +1282,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1295,7 +1295,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1308,7 +1308,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1321,7 +1321,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1334,7 +1334,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1347,7 +1347,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1360,7 +1360,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1373,7 +1373,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1386,7 +1386,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1399,7 +1399,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1412,7 +1412,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1425,7 +1425,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1438,7 +1438,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1451,7 +1451,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1464,7 +1464,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1477,7 +1477,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1490,7 +1490,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1503,7 +1503,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1516,7 +1516,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1529,7 +1529,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1542,7 +1542,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1555,7 +1555,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1568,7 +1568,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1581,7 +1581,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1594,7 +1594,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1607,7 +1607,7 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     },
@@ -1620,10 +1620,14 @@ const extractSchool = [
         "niveauEtude": [
             "supérieur"
         ],
-        "ownerAcount": "Richouf",
+        "ownerAcount": "66a9dc45418bc90b08998073",
         "servicesParaScolaire": [],
         "coordonnee": {}
     }
 ]
 
+extractSchool.forEach(element => {
+    element.publishStatus = true
+})
+console.log(extractSchool)
 module.exports = extractSchool;

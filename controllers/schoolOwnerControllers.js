@@ -32,7 +32,7 @@ const getSchoolOwner = async (req, res) => {
 
 // Singup
 const singupSchoolOwner = async (req, res) => {
-    const { email, name, telephone, pwd } = req.body;
+    const { email, name, telephone, pwd, role } = req.body;
 
     try {
         const schoolOwner = await SchoolOwner.singup(email, name, telephone, pwd);
@@ -41,7 +41,7 @@ const singupSchoolOwner = async (req, res) => {
 
         const token = createToken(schoolOwner._id);
 
-        return res.status(200).json({ email, token,  schoolOwnerId})
+        return res.status(200).json({ token,  schoolOwnerId, role})
     } catch (err) {
         return res.status(500).json({ error: err.message })
     }
@@ -57,7 +57,7 @@ const loginSchoolOwner = async (req, res) => {
 
         const token = createToken(schoolOwner._id);
 
-        return res.status(200).json({ email, token, schoolOwnerId: schoolOwner._id })
+        return res.status(200).json({ token, schoolOwnerId: schoolOwner._id, role: schoolOwner.role })
     } catch (err) {
         return res.status(500).json({error: err.message})
     }

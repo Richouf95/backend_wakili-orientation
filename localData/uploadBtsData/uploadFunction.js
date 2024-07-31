@@ -1,5 +1,8 @@
 const extractProgramBts = require('../uploadBtsData/localBtsData');
 
+const t = extractProgramBts.filter(x => x.domaine !== "N/A")
+console.log(t.length)
+
 const createIt = async (item, itemIndex) => {
     const myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
@@ -26,7 +29,7 @@ const createIt = async (item, itemIndex) => {
 };
 
 const run = async () => {
-    const promises = extractProgramBts.map((element, index) => createIt(element, index));
+    const promises = t.map((element, index) => createIt(element, index));
     await Promise.all(promises);
     console.log('All requests have been processed.');
 };

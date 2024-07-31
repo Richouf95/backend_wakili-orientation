@@ -7,7 +7,7 @@ const schoolSchema = new Schema({
         type: String
     },
     ownerAcount: {
-        type: String,
+        type: Schema.Types.ObjectId,
         default: "N/A",
         required: true
     },

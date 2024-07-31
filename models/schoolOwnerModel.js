@@ -21,6 +21,11 @@ const schoolOwnerSchema = new Schema({
     pwd: {
         type: String,
         required: true
+    },
+    role: {
+        type: String,
+        required: true,
+        default: "school"
     }
 });
 
@@ -29,35 +34,35 @@ schoolOwnerSchema.statics.singup = async function (email, name, telephone, pwd) 
 
     // Validator
     if (!email || !name || !telephone || !pwd) {
-        throw Error('All fields must be filled !');
+        throw Error('Tous les champs doivent être remplis !');
     }
 
     if (!validator.isEmail(email)) {
-        throw Error('Email is not valid !');
+        throw Error("L'Email saisi est incorrect !");
     }
 
     if (!validator.isLength(telephone, { min: 8, max: 8 }) || !validator.isNumeric(telephone)) {
-        throw Error('Telephone is not valid!');
+        throw Error("Le numéro de téléphone saisi est incorrect. Veuillez le réécrire sans l'indicatif");
     }
 
-    if (!validator.isLength(name, {min: 3, max: undefined})) {
-        throw Error('Name is not valid !');
+    if (!validator.isLength(name, { min: 3, max: undefined })) {
+        throw Error('Le nom doit comporter au moins 3 caractères !');
     }
 
     if (!validator.isStrongPassword(pwd)) {
-        throw Error('Password not strong enough !');
+        throw Error("Le mot de passe n'est pas assez sécurisé ! Veuillez utiliser un mot de passe contenant au moins 8 caractères, avec une combinaison de lettres majuscules et minuscules, de chiffres et de caractères spéciaux.");
     }
 
     const exists = await this.findOne({ email });
 
     if (exists) {
-        throw Error('Email already in use !');
+        throw Error("L'adresse e-mail est déjà utilisée !");
     }
 
     const salt = await bcrypt.genSalt(10);
     const hash = await bcrypt.hash(pwd, salt);
 
-    const schoolOwner = await this.create({email, name, telephone, pwd: hash});
+    const schoolOwner = await this.create({ email, name, telephone, pwd: hash });
 
     return schoolOwner;
 }
@@ -66,19 +71,19 @@ schoolOwnerSchema.statics.singup = async function (email, name, telephone, pwd) 
 schoolOwnerSchema.statics.login = async function (email, pwd) {
 
     if (!email || !pwd) {
-        throw Error('All fields must be filled !');
+        throw Error('Tous les champs doivent être remplis !');
     }
 
     const schoolOwner = await this.findOne({ email })
 
     if (!schoolOwner) {
-        throw Error('Icorrect Email !');
+        throw Error("L'Email saisi est incorrect !");
     }
 
     const match = await bcrypt.compare(pwd, schoolOwner.pwd);
 
     if (!match) {
-        throw Error('Incorrect Password');
+        throw Error("Le mot de passe saisi est incorrect !");
     }
 
     return schoolOwner;

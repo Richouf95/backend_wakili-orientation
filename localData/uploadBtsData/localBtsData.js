@@ -1,4 +1,4 @@
-const schollFromDB = require('../uploadSchoolsData/wakili_orientation.schools')
+const schollFromDB = require('../uploadLicenceMasterData/wakili_orientation.schools')
 
 const extractProgramBts = [
     {
@@ -910,8 +910,15 @@ const extractProgramBts = [
 extractProgramBts.forEach(element => {
     const hisSchool = schollFromDB.filter(x => x.t_id === element.t_id)[0];
     element.school = hisSchool._id.$oid;
+    element.programLevel = {
+        niveau: "Enseignement Supérieur",
+        sousNiveau: "BTS"
+    }
+    if (element.name.includes('santé')) {
+        element.domaine = "66a3812a56d17d9ae6ff0b17"
+    } else {
+        element.domaine = "N/A"
+    }
 })
-
-console.log(extractProgramBts)
 
 module.exports = extractProgramBts;

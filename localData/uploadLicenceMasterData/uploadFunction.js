@@ -1,5 +1,10 @@
 const extractProgramLM = require('../uploadLicenceMasterData/localLicenceMasterData');
 
+const t = extractProgramLM.filter(x => x.domaine !== "N/A");
+
+console.log(t.length);
+// console.log(t);
+
 const createIt = async (item, itemIndex) => {
     const myHeaders = new Headers();
     myHeaders.append("Content-Type", "application/json");
@@ -9,8 +14,7 @@ const createIt = async (item, itemIndex) => {
     const requestOptions = {
         method: "POST",
         headers: myHeaders,
-        body: raw,
-        redirect: "follow"
+        body: raw
     };
 
     try {
@@ -18,7 +22,7 @@ const createIt = async (item, itemIndex) => {
         if (response.ok) {
             // console.log(`[${itemIndex + 1}] => OK`);
         } else {
-            console.error(`[${itemIndex + 1}] => NOT OK: ${response.message}`);
+            console.error(`[${itemIndex + 1}] => NOT OKccc: ${response.message}`);
         }
     } catch (error) {
         console.error(`[${itemIndex + 1}] => NOT OK: ${error.message}`);
@@ -26,7 +30,7 @@ const createIt = async (item, itemIndex) => {
 };
 
 const run = async () => {
-    const promises = extractProgramLM.map((element, index) => createIt(element, index));
+    const promises = t.map((element, index) => createIt(element, index));
     await Promise.all(promises);
     console.log('All requests have been processed.');
 };

@@ -19,10 +19,10 @@ const router = express.Router();
 router.get('/:id', getSchoolPresentation);
 
 // Create new school prensentation
-router.post('/add-school-presentation', createSchoolPresentation)
+router.post('/add-school-presentation', createSchoolPresentation);
 
 // Update a school presentation
-
+router.patch('/:id', updateSchoolPresentation);
 
 // Delete a school presentation
 

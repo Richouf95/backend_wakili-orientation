@@ -1,4 +1,6 @@
-const schollFromDB = require('../uploadSchoolsData/wakili_orientation.schools');
+const schollFromDB = require('../uploadLicenceMasterData/wakili_orientation.schools');
+const groupedFormations = require('./categorie');
+const wakiliDomaines = require('../uploadLicenceMasterData/wakili_orientation.domaines')
 
 const extractProgramLM = [
     {
@@ -4846,6 +4848,35 @@ const extractProgramLM = [
 extractProgramLM.forEach(element => {
     const hisSchool = schollFromDB.filter(x => x.t_id === element.t_id)[0];
     element.school = hisSchool._id.$oid;
+    element.programLevel = { niveau: "Enseignement Supérieur", sousNiveau: "Licence / Master" }
+    let a = 0;
+    Object.keys(groupedFormations).forEach(key => {
+        groupedFormations[key].map(x => {
+            if (x === element.name) {
+                element.domaine = key
+            }
+        })
+    })
 })
+
+extractProgramLM.forEach(x => {
+    const hisDomaine = wakiliDomaines.filter(a => a.name === x.domaine);
+
+    if (hisDomaine.length > 0) {
+        const d = hisDomaine[0]._id.$oid;
+        x.domaine = d;
+    }
+})
+
+let i = 0;
+
+// extractProgramLM.map(x => {
+//     if (x.domaine === "N/A") {
+//         delete x.domaine;
+//         i++
+//     };
+// })
+
+// console.log(i)
 
 module.exports = extractProgramLM;
