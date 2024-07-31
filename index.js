@@ -14,7 +14,7 @@ const app = express();
 
 // Middlewares
 app.use(cors({
-    origin: process.env.DEV_DOMAINE, 
+    origin: process.env.PRO_DOMAINE, 
     optionsSuccessStatus: 200
 }));
 
