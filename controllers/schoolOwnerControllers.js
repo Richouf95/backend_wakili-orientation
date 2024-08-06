@@ -10,7 +10,7 @@ const createToken = (_id) => {
 const getAllSchoolOwner = async (req, res) => {
     const schoolOwner = await SchoolOwner.find({  });
 
-    return res.status(200).json(schoolOwner);
+    return res.status(200).json({name: schoolOwner.name, telephone: schoolOwner.telephone, email: schoolOwner.email, role: schoolOwner.role});
 }
 
 // Get a single school owner
@@ -27,7 +27,7 @@ const getSchoolOwner = async (req, res) => {
         return res.status(404).json({ error: "No such schoolOwner !" });
     }
 
-    return res.status(200).json(schoolOwner);
+    return res.status(200).json({name: schoolOwner.name, telephone: schoolOwner.telephone, email: schoolOwner.email, role: schoolOwner.role});
 }
 
 // Singup
